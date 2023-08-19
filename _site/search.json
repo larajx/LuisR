@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Most of my career has been in immunology and oncology, and my primary research interest centers on refining CAR-T constructs and gene editing enhancements, driving their optimal expression, functionality, and anti-tumor ability within in vitro and in vivo models. Some techniques that are a part of my work are flow cytometry, in vivo cancer mouse models, and playing around with whatever data analysis tools I can figure out.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LuisR",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
