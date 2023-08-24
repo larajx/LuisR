@@ -4,13 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Most of my career has been in immunology and oncology, and my primary research interest centers on refining CAR-T constructs and gene editing enhancements, driving their optimal expression, functionality, and anti-tumor ability within in vitro and in vivo models. Some techniques that are a part of my work are flow cytometry, in vivo cancer mouse models, and playing around with whatever data analysis tools I can figure out.\n\n1 + 1\n\n[1] 2"
+    "text": "Most of my career has been in immunology and oncology, and my primary research interest centers on refining CAR-T constructs and gene editing enhancements, driving their optimal"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LuisR",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Luis Rodriguez\nBased in New York City I am a scientist with a background in cancer and immunology research. I have extensive experience spanning Academia and Industry, including Mnemo Therapeutics, Kite Pharma, Regeneron Pharmaceuticals, Memorial Sloan Kettering Cancer Center, and Genentech. My focus across these roles ranges from evaluating CAR-T constructs to conducting in vivo animal studies. I have expertise in a wide array of techniques, from multi-color flow cytometry to genetic manipulation, demonstrating a commitment to advancing our understanding of immunology and cancer biology.\nReach out and say hi!"
+  },
+  {
+    "objectID": "about_v1.html",
+    "href": "about_v1.html",
+    "title": "LuisR",
+    "section": "",
+    "text": "akldsfja;lsdfkj"
+  },
+  {
+    "objectID": "about_v2.html",
+    "href": "about_v2.html",
+    "title": "Luis Rodriguez",
+    "section": "",
+    "text": "I am currently the Scientific Coordinator at the Research Network Data Science at the University of Vienna. Starting in January of 2024, I will be the Professor of Data Science for the Common Good at the Hertie School.\nI previously worked on the Adaptive Experimentation team at Facebook Core Data Science in New York.\nMy research focuses on the intersection of machine learning and causal inference. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I’m also interested in better applying the machinery of machine learning to observational causal inference.\nI’m most interested in methodological research useful for the study of social phenomena."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "2015\nBindu Varghese, Jayanthi Menon, Luis Rodriguez, Kara Olson, Pamela Krueger, Tammy Huang, Eric Smith, Gavin Thurston, and Jessica R. Kirshner. (2015) \"CD20xCD3 Bispecific Fully Human Antibody Induces Potent Anti-Tumor Activity Against CD20-Expressing Tumors in Immune Competent Mice Humanized for CD20 and CD3.\" Blood\n        \n        Link\n    \n2014\nBindu Varghese, Jayanthi Menon, Luis Rodriguez, Lauric Haber, Kara Olson, Paurene Duramad, Adelekan Oyejide, Eric Smith, Gavin Thurston, and Jessica Kirshner. (2014) \"A Novel CD20xCD3 Bispecific Fully Human Antibody Induces Potent Anti-Tumor Effects Against B Cell Lymphoma in Mice.\" Blood\n        \n        Link\n    \n2012\nElliot Servais, Christos Colovos, Luis Rodriguez, Adam Bograd, Jun-ichi Nitadori, Camelia Sima, Valerie Rusch, Michel Sadelain, and Prasad Adusumilli. (2012) \"Mesothelin overexpression promotes mesothelioma cell invasion and MMP-9 secretion in an orthotopic mouse model and in epithelioid pleural mesothelioma patients.\" Clinical Cancer Research\n        \n        Link\n    \nLuis Rodriguez and Prasad Adusumilli. (2012) \"Paradox of Plenty- Nutrition in New York and New Delhi.\" Natl Med J India\n        \n        Link\n    \n2011\nElliot L. Servais, Kei Suzuki, Christos Colovos, Luis Rodriguez, Camelia Sima, Martin Fleisher, Valerie Rusch, Michel Sadelain, and Prasad Adusumilli. (2011) \"An In Vivo Platform for Tumor Biomarker Assessment.\" PLOS One\n        \n        Link\n    \n2010\nLuis Rodriguez, Stefan Kachala, and Prasad Adusumilli. (2010) \"Letter from North America- Doctor, did you wash your hands?.\" Natl Med J India\n        \n        Link\n    \n2007\nWenhan Chang, Chialing Tu, Zhiqiang Cheng, Luis Rodriguez, Tsui-Hua Chen, Martin Gassmann, Bernhard Bettler, Marta Margeta, Lily Y Jan, and Dolores Shoback. (2007) \"Complex formation with the Type B gamma-aminobutyric acid receptor affects the expression and signal transduction of the extracellular calcium-sensing receptor. Studies with HEK-293 cells and neurons.\" J Biol Chem\n        \n        Link\n    \n2005\nLuis Rodriguez, Chialing Tu, Zhiqiang Cheng, Tsui-Hua Chen, Daniel Bikle, Dolores Shoback, and Wenhan Chang. (2005) \"Expression and functional assessment of an alternatively spliced extracellular Ca2+-sensing receptor in growth plate chondrocytes..\" Endocrinology\n        \n        Link\n    \nLuis Rodriguez, Zhiqiang Cheng, Tsui-Hua Chen, Chialing Tu, and Wenhan Chang. (2005) \"Extracellular calcium and parathyroid hormone-related peptide signaling modulate the pace of growth plate chondrocyte differentiation.\" Endocrinology\n        \n        Link\n    \n2004\nWenhan Chang, Luis Rodriguez, Chialing Tu, and Dolores Shoback. (2004) \"Extracellular Ca2+-sensing in cartilage.\" J Musculoskelet Neuronal Interact\n        \n        Link"
   }
 ]

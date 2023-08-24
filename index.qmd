@@ -1,11 +1,31 @@
 ---
-title: "LuisR"
+title: ""
+about: 
+  template: trestles
+  image: profile.jpg
+  image-shape: round
 ---
 
-This is a Quarto website.
+# Luis Rodriguez
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Based in New York City I am a scientist with a background in cancer and immunology research. I have extensive experience spanning Academia and Industry, including Mnemo Therapeutics, Kite Pharma, Regeneron Pharmaceuticals, Memorial Sloan Kettering Cancer Center, and Genentech.  My focus across these roles ranges from evaluating CAR-T constructs to conducting in vivo animal studies. I have expertise in a wide array of techniques, from multi-color flow cytometry to genetic manipulation, demonstrating a commitment to advancing our understanding of immunology and cancer biology. 
 
-```{r}
-1 + 1
+Reach out and say hi!
+
+{{< pagebreak >}}
+
+::: text-center
+```{=html}
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/luis-r-2678b24/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=JVi3IBYAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-mortarboard-fill" role='img' aria-label='Google Scholar'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="mailto:larajx@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
 ```
+:::

@@ -1,13 +1,7 @@
 ---
 title: "About"
-about: 
-  template: trestles
-  image: profile.jpg
-  image-shape: round
 ---
 
-Most of my career has been in immunology and oncology, and my primary research interest centers on refining CAR-T constructs and gene editing enhancements, driving their optimal expression, functionality, and anti-tumor ability within in vitro and in vivo models. Some techniques that are a part of my work are flow cytometry, in vivo cancer mouse models, and playing around with whatever data analysis tools I can figure out. 
+<center>![](profile.jpg)</center>
 
-```{r}
-1 + 1
-```
+Most of my career has been in immunology and oncology, and my primary research interest centers on refining CAR-T constructs and gene editing enhancements, driving their optimal

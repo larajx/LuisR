@@ -1,0 +1,209 @@
+mmp9:
+  title: Mesothelin overexpression promotes mesothelioma cell invasion and MMP-9 secretion in an orthotopic mouse model and in epithelioid pleural mesothelioma patients
+  authors:
+    - Elliot Servais
+    - Christos Colovos
+    - me
+    - Adam Bograd
+    - Jun-ichi Nitadori
+    - Camelia Sima
+    - Valerie Rusch
+    - Michel Sadelain
+    - Prasad Adusumilli
+  year: 2012
+  venue: Clinical Cancer Research
+  published_url: https://aacrjournals.org/clincancerres/article/18/9/2478/77942/Mesothelin-Overexpression-Promotes-Mesothelioma
+  
+invivo_plat:
+  title: An In Vivo Platform for Tumor Biomarker Assessment
+  authors:
+    - Elliot L. Servais
+    - Kei Suzuki
+    - Christos Colovos
+    - me
+    - Camelia Sima
+    - Martin Fleisher
+    - Valerie Rusch
+    - Michel Sadelain
+    - Prasad Adusumilli 
+  year: 2011
+  venue: PLOS One
+  published_url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026722
+  
+paradox:
+  title: Paradox of Plenty- Nutrition in New York and New Delhi
+  authors:
+    - me
+    - Prasad Adusumilli
+  year: 2012
+  venue: Natl Med J India
+  published_url: https://nmji.in/archives/
+
+dr_hands:
+  title: Letter from North America- Doctor, did you wash your hands?
+  authors:
+    - me
+    - Stefan Kachala
+    - Prasad Adusumilli
+  year: 2010
+  venue: Natl Med J India
+  published_url: https://nmji.in/archives/
+  
+fgfr4: 
+  title: Targeting FGFR4 inhibits hepatocellular carcinoma in preclinical mouse models
+  authors:
+    - Dorothy French
+    - Benjamin Lin
+    - Manping Wang
+    - Camellia Adams
+    - Theresa Shek
+    - Kathy Hötzel
+    - Brad Bolon
+    - Ronald Ferrando
+    - Craig Blackmore 
+    - Kurt Schroeder
+    - me
+    - Maria Hristopoulos 
+    - Rayna Venook 
+    - Avi Ashkenazi 
+    - Luc Desnoyers
+  year: 2012
+  venue: PLOS One
+  published_url: https://pubmed.ncbi.nlm.nih.gov/22615798/
+  
+  gaba_ca: 
+  title: Type B gamma-aminobutyric acid receptors modulate the function of the extracellular Ca2+-sensing receptor and cell differentiation in murine growth plate chondrocytes
+  authors:
+    - Zhiqiang Cheng
+    - Chialing Tu
+    - me
+    - Tsui-Hua Chen
+    - Melita M Dvorak
+    - Marta Margeta
+    - Martin Gassmann
+    - Bernhard Bettler
+    - Dolores Shoback
+    - Wenhan Chang
+  year: 2007
+  venue: Endocrinology
+  published_url: https://pubmed.ncbi.nlm.nih.gov/17615148/
+  
+  gaba_neu: 
+  title: Complex formation with the Type B gamma-aminobutyric acid receptor affects the expression and signal transduction of the extracellular calcium-sensing receptor. Studies with HEK-293 cells and neurons
+  authors:
+    - Wenhan Chang 
+    - Chialing Tu
+    - Zhiqiang Cheng
+    - me
+    - Tsui-Hua Chen
+    - Martin Gassmann
+    - Bernhard Bettler
+    - Marta Margeta
+    - Lily Y Jan
+    - Dolores Shoback
+  year: 2007
+  venue: J Biol Chem
+  published_url: https://pubmed.ncbi.nlm.nih.gov/17591780/
+  
+alt_car: 
+  title:  Expression and functional assessment of an alternatively spliced extracellular Ca2+-sensing receptor in growth plate chondrocytes.
+  authors:
+    - me
+    - Chialing Tu
+    - Zhiqiang Cheng
+    - Tsui-Hua Chen
+    - Daniel Bikle
+    - Dolores Shoback
+    - Wenhan Chang
+  year: 2005
+  venue: Endocrinology
+  published_url: https://pubmed.ncbi.nlm.nih.gov/16166224/
+  
+ex_pt: 
+  title: Extracellular calcium and parathyroid hormone-related peptide signaling modulate the pace of growth plate chondrocyte differentiation
+  authors: 
+    - me
+    - Zhiqiang Cheng
+    - Tsui-Hua Chen
+    - Chialing Tu
+    - Wenhan Chang
+  year: 2005
+  venue: Endocrinology
+  published_url: https://pubmed.ncbi.nlm.nih.gov/16099862/
+
+ex_ca: 
+  title: Extracellular Ca2+-sensing in cartilage
+  authors:
+    - Wenhan Chang
+    - me
+    - Chialing Tu
+    - Dolores Shoback
+  year: 2004
+  venue: J Musculoskelet Neuronal Interact
+  published_url: https://pubmed.ncbi.nlm.nih.gov/15758285/
+
+abs_regn1979: 
+  title: CD20xCD3 Bispecific Fully Human Antibody Induces Potent Anti-Tumor Activity Against CD20-Expressing Tumors in Immune Competent Mice Humanized for CD20 and CD3
+  authors: 
+  - Bindu Varghese
+  - Jayanthi Menon
+  - me
+  - Kara Olson
+  - Pamela Krueger
+  - Tammy Huang
+  - Eric Smith
+  - Gavin Thurston
+  - Jessica R. Kirshner
+  year: 2015
+  venue: Blood
+  published_url: https://ashpublications.org/blood/article/126/23/818/136345/CD20xCD3-Bispecific-Fully-Human-Antibody-Induces
+  
+abs_regn1979_bmice: 
+  title: A Novel CD20xCD3 Bispecific Fully Human Antibody Induces Potent Anti-Tumor Effects Against B Cell Lymphoma in Mice
+  authors:
+    - Bindu Varghese
+    - Jayanthi Menon
+    - me
+    - Lauric Haber
+    - Kara Olson
+    - Paurene Duramad
+    - Adelekan Oyejide
+    - Eric Smith
+    - Gavin Thurston
+    - Jessica Kirshner
+  year: 2014
+  venue: Blood
+  published_url: https://ashpublications.org/blood/article/124/21/4501/91965/A-Novel-CD20xCD3-Bispecific-Fully-Human-Antibody
+
+huh: 
+  title: 
+  authors:
+    - 
+  year: 
+  venue: 
+  published_url: 
+
+huh: 
+  title: 
+  authors:
+    - 
+  year: 
+  venue: 
+  published_url: 
+  
+huh: 
+  title: 
+  authors:
+    - 
+  year: 
+  venue: 
+  published_url: 
+
+huh: 
+  title: 
+  authors:
+    - 
+  year: 
+  venue: 
+  published_url: 
+
