@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: c0ba29cd-ffa4-4fbc-a508-2ec95e3b6724
+      url: 'https://effortless-semolina-06fdac.netlify.app'
